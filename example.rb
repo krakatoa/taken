@@ -6,6 +6,6 @@ class QueueController
   def self.build
   end
 
-  def self.compile
+  def self.make
   end
 end
